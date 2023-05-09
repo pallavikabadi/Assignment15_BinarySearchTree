@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelabz.Uc2;
 
 public class INode<T extends Comparable<T>> {
     /*
